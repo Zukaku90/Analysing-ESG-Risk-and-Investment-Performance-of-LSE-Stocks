@@ -37,6 +37,7 @@ After seeing the correlation of -0.328 between Expected Retrun and Social Risk S
 
 ## Limitations
 - Due to limitations of the dataset, the analysis assumes that the ESG Risk Score remains constant over time for each security, which may not accurately reflect real-world dynamics.
+- Out of the 243 securities in out list, only 80 of them had ESG data available, leading to a small sample size of 20 in each quartile.
 - It assumes a linear relationship between ESG Risk Score and financial performance, neglecting potential non-linearities or interactions with other factors.
 - External factors such as regulatory changes, market sentiment, or macroeconomic conditions are not explicitly accounted for in the analysis, potentially influencing results.
 
