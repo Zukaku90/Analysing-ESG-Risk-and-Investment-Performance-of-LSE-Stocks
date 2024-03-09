@@ -1,4 +1,4 @@
-# Analyzing-ESG-Risk-and-Investment-Performance-in-LSE-Stocks
+# Analyzing-ESG-Risk-and-Investment-Performance-of-LSE-Stocks
  ## **Overview**
  In this project, I examined the correlation between the Environmental, Social, and Governance (ESG) Risk Score and the performance of securities listed on the London Stock Exchange. The investigation delved into understanding how the ESG Risk Score, which encapsulates various factors related to environmental sustainability, social responsibility, and corporate governance practices, influences the performance of listed securities.
  
